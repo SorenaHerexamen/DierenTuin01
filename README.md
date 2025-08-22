@@ -26,5 +26,3 @@ Lijsten in `Main.java` worden gebruikt om de objecten op te slaan.
 
 #Refentie
 Dit project is gemaakt door IA-tools en vrienden via Discord 
-## Hoe te gebruiken
-1. Clone de repository:  
